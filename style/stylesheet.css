@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'kaia';
+    src: url('Sylfaen.eot');
+    src: url('Sylfaen.eot?#iefix') format('embedded-opentype'),
+        url('Sylfaen.woff2') format('woff2'),
+        url('Sylfaen.woff') format('woff'),
+        url('Sylfaen.ttf') format('truetype'),
+        url('Sylfaen.svg#Sylfaen') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

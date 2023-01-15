@@ -58,3 +58,29 @@ a{
     display: flex;
     margin-top: 20px;
 }
+.kvadrati{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: fixed;
+    right: 100px;
+}
+.servisebi{
+    display: flex;
+    justify-content: space-around;
+}
+.satauri{
+    margin: 50px 70px;
+}
+.text{
+    display: flex;
+    justify-content: space-around;
+}
+.textis{
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    margin: 20px 50px;
+    font-family: kaia;
+    font-size:  20px;
+}
